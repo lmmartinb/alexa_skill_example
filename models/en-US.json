@@ -1,0 +1,34 @@
+{
+	"interactionModel": {
+		"languageModel": {
+			"invocationName": "example events app",
+				"intents": [
+				{
+					"name": "AMAZON.CancelIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.HelpIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.StopIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.NavigateHomeIntent",
+					"samples": []
+				},
+				{
+					"name": "get_next_event",
+					"slots": [],
+					"samples": [
+						"get next event",
+						"next event"
+					]
+				}
+			],
+			"types": []
+		}
+	}
+}
